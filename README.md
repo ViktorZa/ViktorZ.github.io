@@ -1,2 +1,2 @@
-# ViktorZ.github.io
+# Viktor Z
 Мой первый опубликованный сайт
